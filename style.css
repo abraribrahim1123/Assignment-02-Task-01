@@ -1,0 +1,43 @@
+body{
+margin: 0;
+padding: 0;
+background-image: url(./Galaxy\ Image.jpg);
+background-size: cover;
+
+background-repeat: no-repeat;
+
+   
+
+}
+.div-line{
+    width: 300px;
+    background: transparent;
+    padding: 60px;
+    margin: 8% auto 0;
+    text-align: center;
+
+}
+.search-box{
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    width: 90%;
+    border: 1px solid white;
+    outline: none;
+    
+}
+.gmail-button{
+    text-align:  ;
+    font color: white-space: ;
+    border: 0px;
+    background: transparent;
+    cursor: pointer;
+} 
+
+.GS-button{
+    cursor: pointer;
+    border-radius: 5px;
+    outline: none;
+    border: 1px solid white;
+    
+}
